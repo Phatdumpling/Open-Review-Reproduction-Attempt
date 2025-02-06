@@ -12,7 +12,11 @@ Afterwards was able to view and compare the MNIST dataset and compare images for
 
 ## Results 
 Partial reproduction of 1/3 data that they used
+
 CIFAR-10 would probably be able to be reproduced
+
 Getting meaningful visualization was difficult
+
 Difficulty mostly stemmed from the paper being old using outdated python packages such as tensorflow
+
 Vizualization attempt [Here](https://github.com/Phatdumpling/Open-Review-Reproduction-Attempt/blob/main/archive/mnist_challenge-master/test.ipynb)
